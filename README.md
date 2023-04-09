@@ -1,4 +1,4 @@
-# Integrante 1: ____   _______
+# Integrante 1: Raúl Bustamante
 # Integrante 2: ____   _______
 
 # Circular Array
